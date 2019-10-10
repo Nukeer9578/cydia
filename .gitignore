@@ -16,3 +16,7 @@ setnsfpn
 bins
 Objects
 cydo
+*.xcworkspacedata
+Untitled.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.xcuserstate
+*.xcbkptlist
